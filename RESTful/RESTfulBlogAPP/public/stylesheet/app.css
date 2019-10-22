@@ -1,0 +1,13 @@
+i.icon{
+	font-size:1.5em;
+}
+
+.ui container{
+	margin-top:2em
+}
+.ui.segment{	
+		margin-top:5.0em
+	}
+#delete{
+	display:inline;
+}
